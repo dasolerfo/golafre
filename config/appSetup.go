@@ -1,9 +1,8 @@
-package config
+package appSetup
 
 import (
 	"bufio"
 	"fmt"
-	"log"
 	"os"
 	"strings"
 )
